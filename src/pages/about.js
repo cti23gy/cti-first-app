@@ -1,11 +1,11 @@
 import React from 'react';
 
-const PageNotFound = () => {
+const AboutPage = () => {
     return (
         <React.Fragment>
-            <h1>Page Not Found</h1>
+            <h1>About Page</h1>
         </React.Fragment>
     );
 }
 
-export default PageNotFound;
+export default AboutPage;
